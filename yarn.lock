@@ -584,10 +584,10 @@ astral-regex@^2.0.0:
   resolved "https://registry.npmjs.org/astral-regex/-/astral-regex-2.0.0.tgz#483143c567aeed4785759c0865786dc77d7d2e31"
   integrity sha512-Z7tMw1ytTXt5jqMcOP+OQteU1VuNK9Y02uuJtKQ1Sv69jXQKKg5cibLwGJow8yzZP+eAc18EmLGPal0bp36rvQ==
 
-axios-retry@3.2.4:
-  version "3.2.4"
-  resolved "https://registry.npmjs.org/axios-retry/-/axios-retry-3.2.4.tgz#f447a53c3456f5bfeca18f20c3a3272207d082ae"
-  integrity sha512-Co3UXiv4npi6lM963mfnuH90/YFLKWWDmoBYfxkHT5xtkSSWNqK9zdG3fw5/CP/dsoKB5aMMJCsgab+tp1OxLQ==
+axios-retry@3.2.5:
+  version "3.2.5"
+  resolved "https://registry.yarnpkg.com/axios-retry/-/axios-retry-3.2.5.tgz#64952992837c7d9a12eec156a2694a7945f60895"
+  integrity sha512-a8umkKbfIkTiYJQLx3v3TzKM85TGKB8ZQYz4zwykt2fpO64TsRlUhjaPaAb3fqMWCXFm2YhWcd8V5FHDKO9bSA==
   dependencies:
     "@babel/runtime" "^7.15.4"
     is-retry-allowed "^2.2.0"
